@@ -30,3 +30,4 @@ expense.q2expense = prompt("Во сколько обойдется?");
 
 console.log(expense.q1expense,expense.q2expense);
  alert('Бюджет на один день ' + money/30);
+ //Изменение
